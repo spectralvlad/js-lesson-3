@@ -1,0 +1,15 @@
+body {
+  margin: 20px 20px;
+}
+
+a {
+  margin-right: 30px;
+}
+
+h1 {
+  max-width: 1000px;
+}
+
+p {
+  line-height: 2;
+}
